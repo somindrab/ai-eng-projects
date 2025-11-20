@@ -1,4 +1,4 @@
-name: rag-chatbot
+name: aieng-rag-chatbot
 channels:
   - conda-forge
 dependencies:

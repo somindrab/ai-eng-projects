@@ -1,0 +1,5 @@
+A functional chatbot that looks up data from PDF files in the data directory, and attempts to answer questions.
+
+It works for the most part, but note that it is based on gemma3b:1, which isn't too powerful. You can swap it out for a more powerful model, although gemma3b:1 is small enough to be hosted locally (using Ollama, for example).
+
+Enjoy!
